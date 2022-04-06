@@ -17,6 +17,7 @@ public class Hello {
         // TODO code application logic here
         System.out.println("Dao Ho Anh");
         System.out.println("Ho Dang Dung");
+        System.out.println("hello.Hello.main()");
     }
     
 }
